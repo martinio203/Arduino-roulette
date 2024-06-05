@@ -10,7 +10,7 @@ Roulette game with the ability for the player to choose colors, as well as score
 
 5x Shift register 74hc5957
 
-37x leds - 1x green LED, 18 red LEDs and 18x yellow LEDs (or black LEDs like in a real roulette) 
+37x leds - 1x green LED, 18x red LEDs and 18x yellow LEDs (or black LEDs like in a real roulette) 
 
 37x resistor 1k Ohm for each LED
 
